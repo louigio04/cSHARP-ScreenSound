@@ -1,0 +1,14 @@
+c:\Users\Mirian\Desktop\Alura\C#\screensound\bin\Debug\net9.0\screensound.exe
+c:\Users\Mirian\Desktop\Alura\C#\screensound\bin\Debug\net9.0\screensound.deps.json
+c:\Users\Mirian\Desktop\Alura\C#\screensound\bin\Debug\net9.0\screensound.runtimeconfig.json
+c:\Users\Mirian\Desktop\Alura\C#\screensound\bin\Debug\net9.0\screensound.dll
+c:\Users\Mirian\Desktop\Alura\C#\screensound\bin\Debug\net9.0\screensound.pdb
+c:\Users\Mirian\Desktop\Alura\C#\screensound\obj\Debug\net9.0\screensound.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Mirian\Desktop\Alura\C#\screensound\obj\Debug\net9.0\screensound.AssemblyInfoInputs.cache
+c:\Users\Mirian\Desktop\Alura\C#\screensound\obj\Debug\net9.0\screensound.AssemblyInfo.cs
+c:\Users\Mirian\Desktop\Alura\C#\screensound\obj\Debug\net9.0\screensound.csproj.CoreCompileInputs.cache
+c:\Users\Mirian\Desktop\Alura\C#\screensound\obj\Debug\net9.0\screensound.dll
+c:\Users\Mirian\Desktop\Alura\C#\screensound\obj\Debug\net9.0\refint\screensound.dll
+c:\Users\Mirian\Desktop\Alura\C#\screensound\obj\Debug\net9.0\screensound.pdb
+c:\Users\Mirian\Desktop\Alura\C#\screensound\obj\Debug\net9.0\screensound.genruntimeconfig.cache
+c:\Users\Mirian\Desktop\Alura\C#\screensound\obj\Debug\net9.0\ref\screensound.dll
