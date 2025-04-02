@@ -12,3 +12,4 @@ c:\Users\Mirian\Desktop\Alura\C#\screensound\obj\Debug\net9.0\refint\screensound
 c:\Users\Mirian\Desktop\Alura\C#\screensound\obj\Debug\net9.0\screensound.pdb
 c:\Users\Mirian\Desktop\Alura\C#\screensound\obj\Debug\net9.0\screensound.genruntimeconfig.cache
 c:\Users\Mirian\Desktop\Alura\C#\screensound\obj\Debug\net9.0\ref\screensound.dll
+c:\Users\Mirian\Desktop\Alura\C#\screensound\obj\Debug\net9.0\screensound.sourcelink.json
