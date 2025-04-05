@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("screensound")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93876e3995fb8804d2512b5f0ecd16243ea50f72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01a2a40e196311d61c9b732dcf1deecdfb93b241")]
 [assembly: System.Reflection.AssemblyProductAttribute("screensound")]
 [assembly: System.Reflection.AssemblyTitleAttribute("screensound")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

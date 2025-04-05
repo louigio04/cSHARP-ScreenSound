@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Mirian\\Desktop\\Alura\\C#\\screensound\\screensound.csproj": {}
+    "C:\\Users\\Mirian\\Desktop\\Alura\\C#\\screensound\\screensound.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Mirian\\Desktop\\Alura\\C#\\screensound\\screensound.csproj": {
+    "C:\\Users\\Mirian\\Desktop\\Alura\\C#\\screensound\\screensound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Mirian\\Desktop\\Alura\\C#\\screensound\\screensound.csproj",
+        "projectUniqueName": "C:\\Users\\Mirian\\Desktop\\Alura\\C#\\screensound\\screensound.csproj",
         "projectName": "screensound",
-        "projectPath": "c:\\Users\\Mirian\\Desktop\\Alura\\C#\\screensound\\screensound.csproj",
+        "projectPath": "C:\\Users\\Mirian\\Desktop\\Alura\\C#\\screensound\\screensound.csproj",
         "packagesPath": "C:\\Users\\Mirian\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Mirian\\Desktop\\Alura\\C#\\screensound\\obj\\",
+        "outputPath": "C:\\Users\\Mirian\\Desktop\\Alura\\C#\\screensound\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mirian\\AppData\\Roaming\\NuGet\\NuGet.Config"
